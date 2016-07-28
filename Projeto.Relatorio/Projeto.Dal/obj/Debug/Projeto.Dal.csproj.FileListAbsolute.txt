@@ -1,0 +1,5 @@
+C:\Users\hilda.lopes\Documents\GitHub\TemplatesAspNet\Projeto.Relatorio\Projeto.Dal\bin\Debug\Projeto.Dal.dll
+C:\Users\hilda.lopes\Documents\GitHub\TemplatesAspNet\Projeto.Relatorio\Projeto.Dal\bin\Debug\Projeto.Dal.pdb
+C:\Users\hilda.lopes\Documents\GitHub\TemplatesAspNet\Projeto.Relatorio\Projeto.Dal\obj\Debug\Projeto.Dal.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\GitHub\TemplatesAspNet\Projeto.Relatorio\Projeto.Dal\obj\Debug\Projeto.Dal.dll
+C:\Users\hilda.lopes\Documents\GitHub\TemplatesAspNet\Projeto.Relatorio\Projeto.Dal\obj\Debug\Projeto.Dal.pdb
